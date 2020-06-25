@@ -5,7 +5,7 @@
 }
 
 .central {
-  margin: 0 auto;
+ margin-top: 10%;
 }
 .area {
   display: flex;
